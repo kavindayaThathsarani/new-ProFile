@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ***If you like what I do, maybe consider buying me a coffee*** 🥺 👇
 
-<a href="https://www.buymeacoffee.com/PiyumalNipuna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+<a href="https://www.buymeacoffee.com/PiyumalNipuna60"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
 
 ***
 <div align="center">
@@ -69,13 +69,15 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-//link Add
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
-<a href="https://twitter.com/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__Nipuna__" height="30" width="40" /></a>
+<a href="https://github.com/PiyumalNipuna60"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="nipuna_piyumal" height="30" width="40" /></a>
 <a href="https://lk.linkedin.com/in/Nipuna Piyumal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nowety.piyumalNipuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/piyumalnipuna/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyumalnipuna" height="30" width="40" /></a>
+<a href="https://www.slack.com"><img align="slack" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original-wordmark.svg" alt="nipuna_piyumal" height="50" width="40" /></a>
+
 
 </p>
 
@@ -109,7 +111,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<p align="left"> <a href="https://github.com/PiyumalNipuna60/github-readme-stats"><img alt="AshanSandeep06's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>
+<p align="left"> <a href="https://github.com/PiyumalNipuna60/github-readme-stats"><img alt="PiyumalNipuna60's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=8&layout=compact&theme=gotham&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="142px"/></a> </p>
 
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyumalNipuna60&langs_count=5&theme=gotham" alt="Nipuna Piyumal | My GitHub Language Stats" /> -->
 
